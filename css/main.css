@@ -158,5 +158,13 @@ a {
     margin-right: 20px;
     float: left;
   }
+  .projectPic2 {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+    margin-right: 20px;
+    margin-bottom: 50px;
+    float: left;
+  }
   
   
